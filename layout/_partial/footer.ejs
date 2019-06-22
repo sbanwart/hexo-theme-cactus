@@ -1,4 +1,7 @@
 <footer id="footer">
+  <div style="margin-top: 10px">
+     <%- globalLicense(config) %>
+  </div>
   <div class="footer-left">
     <%= __('footer.copyright') %> &copy; <%= new Date().getFullYear() %> <%= config.author || config.title %>
   </div>

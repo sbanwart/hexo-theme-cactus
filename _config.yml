@@ -15,9 +15,11 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  about: /about/
-  articles: /archives/
-  projects: projects_url
+  about: /blog/about/
+  articles: /blog
+  projects: https://github.com/sbanwart
+  categories: /blog/categories/
+  tags: /blog/tags/
 
 
 # Links to your social media accounts.

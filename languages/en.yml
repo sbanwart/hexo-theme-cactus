@@ -1,11 +1,13 @@
 nav:
   home: Home
   about: About
-  articles: Writing
+  articles: Archives
   tag: Tag
   category: Category
   projects: Projects
   search: Search
+  categories: Categories
+  tags: Tags
 
 footer:
   copyright: Copyright

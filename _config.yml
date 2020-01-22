@@ -139,7 +139,7 @@ disqus:
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
-  enabled: true
+  enabled: false
   id: UA-2273147-3
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
@@ -151,3 +151,8 @@ baidu_analytics:
 # logo and/or favicons of you website.
 gravatar:
   email: name@email.com
+
+# Enable GoatCounter
+goat_counter:
+  enabled: true
+  id: sbanwart

@@ -76,3 +76,17 @@
         }());
     </script>
 <% } %>
+<!-- GoatCounter Analytics -->
+<% if (theme.goat_counter.enabled && theme.goat_counter.id){ %>
+    <script>
+      (function() {
+        window.counter = 'https://<%= theme.goat_counter.id %>.goatcounter.com/count'
+
+        var script = document.createElement('script');
+        script.async = 1;
+        script.src = '//gc.zgo.at/count.js';
+        var ins = document.getElementsByTagName('script')[0];
+        ins.parentNode.insertBefore(script, ins)
+      })();
+    </script>
+<% } %>

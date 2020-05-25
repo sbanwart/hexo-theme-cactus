@@ -28,7 +28,6 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  keybase: https://keybase.io/sbanwart
   github: https://github.com/sbanwart
   mastodon: https://fosstodon.org/@sbanwart
   linkedin: https://www.linkedin.com/in/sbanwart

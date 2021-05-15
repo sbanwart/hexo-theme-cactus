@@ -10,6 +10,10 @@ nav:
   tags: Tags
   feed: Feed
 
+icons:
+  menu: Menu
+  top: Top
+
 footer:
   copyright: Copyright
 
